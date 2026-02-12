@@ -20,6 +20,8 @@ Sou de São Paulo, tenho 26 anos e estou naquela fase empolgante de transformar 
     </a>
 </p>
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -57,6 +59,3 @@ Sou de São Paulo, tenho 26 anos e estou naquela fase empolgante de transformar 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-
-
