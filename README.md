@@ -1,4 +1,4 @@
-## Luiz Fernando 👋
+# 🧑🏽‍💻 Luiz Fernando 
 
 Sou de São Paulo, tenho 26 anos e estou naquela fase empolgante de transformar a curiosidade por tecnologia em profissão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB, enquanto coloco em prática tudo o que aprendi na minha formação de Programador Web pelo IFRS.
 
