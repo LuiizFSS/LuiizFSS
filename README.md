@@ -52,11 +52,11 @@ Sou de São Paulo, tenho 26 anos e estou naquela fase empolgante de transformar 
 
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 
