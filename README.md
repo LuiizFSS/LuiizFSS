@@ -11,7 +11,7 @@ Sou de São Paulo, tenho 26 anos e estou naquela fase empolgante de transformar 
             src="https://custom-icon-badges.demolab.com/github/stars/LuiizFSS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/LuiizFSS?tab=followers">
+      <a href="https://github.com/LuiizFSS?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
