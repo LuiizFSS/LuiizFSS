@@ -12,12 +12,12 @@ Sou de São Paulo, tenho 26 anos e estou naquela fase empolgante de transformar 
         />
     </a>
   <a href="https://github.com/LuiizFSS?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LuiizFSS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/LuiizFSS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
 </p>
 
 ---
